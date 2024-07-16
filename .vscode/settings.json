@@ -1,5 +1,5 @@
 {
-    "cSpell.language": "en,pt-BR"
+    "cSpell.language": "en,pt-BR",
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.donotVerifyTags": true,
     "[css]": {
@@ -7,9 +7,7 @@
     },
     "files.autoSave": "afterDelay",
     "workbench.colorTheme": "Omni",
-    "json.schemas": [
-
-    ]
+    "json.schemas": [],
     "material-icon-theme.folders.associations": {
         "infra": "app",
         "entities": "class",
@@ -20,30 +18,26 @@
         "implementations": "core",
         "dtos": "typescript",
         "fakes": "mock"
-        },
-        
-        "editor.fontFamily": "Fira Code",
-        "editor.fontLigatures": true,
-        "terminal.integrated.fontFamily": "Fire Code",
-        "editor.codeLensFontFamily": "Fira Code",
-        "workbench.iconTheme": "material-icon-theme",
-        "workbench.productIconTheme": "fluent-icons",
-        "material-icon-theme.files.customClones": [
-    
-        ],
-        "vscode-edge-devtools.webhintInstallNotification": true,
-
-        "editor.fontFamily": "Fira Code"
-        "editor.fontLigatures": true,
-        "editor.tabSize": 2,
-        "editor.fontSize": 18,
-        "editor.lineHeight": 24,
-        "editor.lineHeight": 1.6
-        "editor.minimap.enabled": false
-        "editor.wordWrap": "on"
-        "zenMode.fullScreen": false
-        "zenMode.centerLayout": false
-        "zenMode.showTabs": "single"    
-        "editor.cursorBlinking": "expand",
-        "editor.cursorSmoothCaretAnimation": true,
+    },
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "Fire Code",
+    "editor.codeLensFontFamily": "Fira Code",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "fluent-icons",
+    "material-icon-theme.files.customClones": true,
+    "vscode-edge-devtools.webhintInstallNotification": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.tabSize": 2,
+    "editor.fontSize": 18,
+    "editor.lineHeight": 24,
+    "editor.lineHeight": 1.6,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "zenMode.fullScreen": false,
+    "zenMode.centerLayout": false,
+    "zenMode.showTabs": "single",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on"
 }
