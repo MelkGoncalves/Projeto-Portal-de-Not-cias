@@ -1,0 +1,22 @@
+{
+    "cSpell.language": "en,pt-BR"
+    "workbench.iconTheme": "vscode-icons",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Omni",
+    "json.schemas": [
+
+    ]
+
+    "editor.fontSize": 18
+    "editor.lineHeight": 1.6
+    "editor.minimap.enabled": false
+    "editor.wordWrap": "on"
+    "zenMode.fullScreen": false
+    "zenMode.centerLayout": false
+    "zenMode.showTabs": "single"    
+}
